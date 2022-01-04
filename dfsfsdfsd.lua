@@ -49,18 +49,18 @@ end
 
 
 local themes = {
-    SchemeColor = Color3.fromRGB(6, 2, 74),
-    Background = Color3.fromRGB(103, 175, 0),
+    SchemeColor = Color3.fromRGB(119,136,153),
+    Background = Color3.fromRGB(64, 64, 64),
     Header = Color3.fromRGB(28, 29, 34),
-    TextColor = Color3.fromRGB(255,255,255),
+    TextColor = Color3.fromRGB(2, 2, 1),
     ElementColor = Color3.fromRGB(32, 32, 38)
 }
 local themeStyles = {
     DarkTheme = {
-        SchemeColor = Color3.fromRGB(6, 2, 74),
-        Background = Color3.fromRGB(103, 175, 0),
+        SchemeColor = Color3.fromRGB(119,136,153),
+        Background = Color3.fromRGB(64, 64, 64),
         Header = Color3.fromRGB(28, 29, 34),
-        TextColor = Color3.fromRGB(255,255,255),
+        TextColor = Color3.fromRGB(2, 2, 1),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
 }
